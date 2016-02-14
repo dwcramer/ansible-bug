@@ -1,0 +1,6 @@
+dependencies:
+  - role: example
+  - role: example
+    some_variable: [1,2]
+  - role: example
+    blah: foo
